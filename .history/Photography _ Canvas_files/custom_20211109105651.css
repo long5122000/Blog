@@ -129,10 +129,3 @@ html {
 .original {
   left: -265px;
 }
-.bg-d {
-  margin: 0 auto;
-  max-width: 235px;
-  padding: 25px;
-  background: url("./album-bg.svg") no-repeat center center;
-  background-size: 100%;
-}
